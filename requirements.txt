@@ -1,0 +1,9 @@
+streamlit
+ollama
+chromadb
+sentence-transformers
+requests
+beautifulsoup4
+langchain
+langchain-community
+rank_bm25
