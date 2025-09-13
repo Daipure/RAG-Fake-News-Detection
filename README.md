@@ -28,8 +28,10 @@
 
 ## 執行範例
 
-
+<img width="1414" height="685" alt="input" src="https://github.com/user-attachments/assets/81e1b11a-a8ed-4b58-a1e8-c37956e5e1f9" />
+<img width="1478" height="581" alt="res" src="https://github.com/user-attachments/assets/413b5204-4ea2-42ec-b4f1-fbc88ecd3042" />
 ## 🚀 開始使用
+
 
 請依照以下步驟來設定並執行本專案。
 
